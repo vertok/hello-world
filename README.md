@@ -1,2 +1,2 @@
 # hello-world
-print("Hello World! /n I am Alex"
+print("Hello World! I am Alex"
